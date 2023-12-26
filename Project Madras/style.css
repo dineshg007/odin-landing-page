@@ -1,0 +1,37 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #CEFDFF;
+}
+.header {
+    background-color: #1D1E2C;
+    color: #D3C0D2;
+    
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    margin-bottom: 25px;
+    color: #CEFDFF;
+}
+
+.links {
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;
+    color: #CEFDFF;
+}
+.product {
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.buttons {
+    color: white;
+    
+}
